@@ -1,8 +1,8 @@
-#Mon Mar 25 22:14:21 IST 2024
-base.0=C\:\\Users\\aksha\\Desktop\\flutter_projects\\app_eight\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=C\:\\Users\\aksha\\Desktop\\flutter_projects\\app_eight\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=C\:\\Users\\aksha\\Desktop\\flutter_projects\\app_eight\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
-base.3=C\:\\Users\\aksha\\Desktop\\flutter_projects\\app_eight\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
+#Mon Mar 25 22:38:44 IST 2024
+base.0=C\:\\Users\\aksha\\Desktop\\flutter_projects\\flutter-ChatApp\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\aksha\\Desktop\\flutter_projects\\flutter-ChatApp\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\aksha\\Desktop\\flutter_projects\\flutter-ChatApp\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+base.3=C\:\\Users\\aksha\\Desktop\\flutter_projects\\flutter-ChatApp\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=1/classes.dex

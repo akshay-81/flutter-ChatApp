@@ -4,7 +4,7 @@
             "outputFile": "com.example.app_eight.app-mergeDebugResources-9:/values/values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\aksha\\Desktop\\flutter_projects\\app_eight\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\aksha\\Desktop\\flutter_projects\\flutter-ChatApp\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

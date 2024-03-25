@@ -15,7 +15,7 @@ class App extends StatelessWidget {
       title: 'FlutterChat',
       theme: ThemeData().copyWith(
         colorScheme: ColorScheme.fromSeed(
-            seedColor: const Color.fromARGB(255, 63, 17, 177)),
+            seedColor: const Color.fromARGB(255, 12, 6, 84)),
       ),
       home: const AuthScreen(),
     );
