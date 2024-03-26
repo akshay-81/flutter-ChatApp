@@ -1,3 +1,5 @@
+import 'package:app_eight/widgets/chat_messages.dart';
+import 'package:app_eight/widgets/new_message.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
@@ -41,20 +43,25 @@ class ChatScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('FlutterChat'),
-        actions: [
-          IconButton(
-              onPressed: () {
-                _showConfirmationDialog(context);
-              },
-              icon: Icon(Icons.exit_to_app,
-                  color: Theme.of(context).colorScheme.primary))
-        ],
-      ),
-      body: const Center(
-        child: Text('Logged In!'),
-      ),
-    );
+        backgroundColor: Theme.of(context).colorScheme.primaryFixed,
+        appBar: AppBar(
+          title: const Text('FlutterChat'),
+          actions: [
+            IconButton(
+                onPressed: () {
+                  _showConfirmationDialog(context);
+                },
+                icon: Icon(Icons.exit_to_app,
+                    color: Theme.of(context).colorScheme.primary))
+          ],
+        ),
+        body: const Column(
+          children: [
+            Expanded(
+              child: ChatMessages(),
+            ),
+            NewMessage()
+          ],
+        ));
   }
 }
